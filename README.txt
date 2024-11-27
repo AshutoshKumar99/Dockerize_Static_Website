@@ -29,7 +29,7 @@ The Dockerfile automates the process of creating a Docker container that:
 1. **Clone this repository** to your local machine or server:
 
    ```bash
-   git clone https://github.com/AshutoshKumar99/Dockerize-Static-Website.git
+   git clone https://github.com/AshutoshKumar99/Dockerize_Static_Website.git
    cd Dockerize-Static-Website
 
 2. **Build the Docker image from the Dockerfile
